@@ -34,4 +34,4 @@ EOF
 update-grub
 
 # Install NFS client
-apt-get -y install nfs-common
+#apt-get -y install nfs-common

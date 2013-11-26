@@ -7,8 +7,6 @@
 				"scripts/vagrant.sh",
 				"scripts/virtualbox.sh",
 				"scripts/kernel.sh",
-				"scripts/docker.sh",
-				"scripts/chef.sh",
 				"scripts/cleanup.sh"
 			],
 			"override": {
